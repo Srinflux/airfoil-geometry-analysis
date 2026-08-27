@@ -1,6 +1,5 @@
 # Airfoil Geometry Analysis
-
-# This project aims to investigate the relationship between airfoil geometry and the aerodynamic performance of the airfoil using computational analysis in Python. I will primarily using Python for this project as this is the programming language I have accumulated the most experience in using. This study will examine how parameters such as camber, thickness, and their locations can influence aerodynamic characteristics.
+This project aims to investigate the relationship between airfoil geometry and the aerodynamic performance of the airfoil using computational analysis in Python. I will primarily using Python for this project as this is the programming language I have accumulated the most experience in using. This study will examine how parameters such as camber, thickness, and their locations can influence aerodynamic characteristics.
 
 ## Research Question:
    How does the variation in airfoil geometry affect the aerodynamic performance?
