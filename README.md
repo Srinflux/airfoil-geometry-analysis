@@ -48,4 +48,4 @@ Potential extensions include:
 
 
 ## Side Note
-This is my first project that I am documenting on Github so some aspects of this investigation
+This is my first project that I am documenting on Github so some aspects of this investigation may not follow standard conventions
